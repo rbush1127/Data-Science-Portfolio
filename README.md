@@ -22,3 +22,6 @@ The SVM achieved 75% accuracy and 82% precision in predicting whether a player w
 
 #### [Challenges in Representation Learning: Facial Expression Recognition Challenge](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Kaggle%20Competitions/Facial%20Expression%20Recognition/Facial%20Expression%20Recognition.ipynb)
 In this challenge, competitors are given a dataset made up of 48x48 grayscale images which can be one of seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, or Neutral.  It's an older competition, so I was not able to submit an official entry.  However, my final model accurately classified 62.3% of images in the private test dataset, which would have been strong enough for a top-10 finish.
+
+#### [Digit Recognizer](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Kaggle%20Competitions/Digit%20Recognition/MNIST%20Competition.ipynb)
+A computer vision challenge with perhaps the most famous image dataset in the field, the Digit Recognizer challenge requires the competitor to build a model which can recognize handwritten numerical digits from 0-9.  My model achieves 99.6% accuracy and was good enough to earn me a top 7% submission.
