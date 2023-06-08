@@ -6,6 +6,13 @@ If you like what you see here and want to know more about a particular project, 
 
 Enjoy!
 
+## Modeling Frameworks
+
+#### [Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
+In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
+framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
+a good use case for it!
+
 ## Personal Projects
 
 #### [Forecasting the Price of Bitcoin with Prophet](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Cryptocurrency/BTC%20Forecast.ipynb)
