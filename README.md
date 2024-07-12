@@ -15,6 +15,9 @@ a good use case for it!
 
 ## Personal Projects
 
+#### [Custom GAN Implementation with MNIST](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/GAN/MNIST%20GAN%20Implementation.ipynb)
+From an interest in GANs and a desire to learn about GPUs and the speed increases offered by CUDA, I decided to develop a GAN from "scratch" using the Keras deep learning framework.  This implementation trains on the NIST image dataset, and given enough time learns to produce high-quality digit images.  The code is limited to 10 epochs here for viewability on GitHub.
+
 #### [Forecasting the Price of Bitcoin with Prophet](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Cryptocurrency/BTC%20Forecast.ipynb)
 Inspired by the work of a mysterious Twitter Bitcoin investor, I decided to see how accurately [$BTC](https://coinmarketcap.com/currencies/bitcoin/) could be modeled as a simple time series, and then extended the analysis to include trading volume as an exogenous variable.  I use the Yahoo Finance Python API to load the data, pandas for dataset management, SciKit-Learn for preprocessing and hyperparameter selection, and Facebook's Prophet package to forecast the price into the future.
 
