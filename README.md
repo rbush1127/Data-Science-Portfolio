@@ -6,13 +6,6 @@ If you like what you see here and want to know more about a particular project, 
 
 Enjoy!
 
-## Modeling Frameworks
-
-#### [Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
-In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
-framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
-a good use case for it!
-
 ## Personal Projects
 
 #### [Custom GAN Implementation with MNIST](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/GAN/MNIST%20GAN%20Implementation.ipynb)
@@ -35,3 +28,10 @@ In this challenge, competitors are given a dataset made up of 48x48 grayscale im
 
 #### [Digit Recognizer](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Kaggle%20Competitions/Digit%20Recognition/MNIST%20Competition.ipynb)
 A computer vision challenge using the famous MNIST image dataset, the Digit Recognizer challenge prompts the competitor to build a model which recognizes handwritten numerical digits between 0 and 9.  My model achieves 99.6% accuracy and was good enough to earn me a top 7% entry at the time of submission.
+
+## Modeling Frameworks
+
+#### [Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
+In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
+framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
+a good use case for it!
