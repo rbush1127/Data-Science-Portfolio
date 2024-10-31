@@ -8,9 +8,6 @@ Enjoy!
 
 ## Personal Projects
 
-#### [Custom GAN Implementation with MNIST](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/GAN/MNIST%20GAN%20Implementation.ipynb)
-From an interest in learning how GANs work and a desire to optimize my GPU performance with CUDA, I decided to develop a GAN from "scratch" using the Keras deep learning framework.  This implementation trains on the MNIST image dataset, and given enough time learns to produce high-quality digit images.  The output is limited to 10 epochs here for viewability on GitHub.
-
 #### [Forecasting the Price of Bitcoin with Prophet](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Cryptocurrency/BTC%20Forecast.ipynb)
 Inspired by the work of a mysterious Twitter Bitcoin investor, I decided to see how accurately [$BTC](https://coinmarketcap.com/currencies/bitcoin/) could be modeled as a simple time series, and then extended the analysis to include trading volume as an exogenous variable.  I use the Yahoo Finance Python API to load the data, pandas for dataset management, SciKit-Learn for preprocessing and hyperparameter selection, and Facebook's Prophet package to forecast the price into the future.
 
@@ -31,7 +28,7 @@ A computer vision challenge using the famous MNIST image dataset, the Digit Reco
 
 ## Modeling Frameworks
 
-#### [Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
+#### [Simple Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
 In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
 framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
 a good use case for it!
