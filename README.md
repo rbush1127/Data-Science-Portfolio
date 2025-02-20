@@ -6,6 +6,16 @@ If you like what you see here and want to know more about a particular project, 
 
 Enjoy!
 
+## Modeling Frameworks
+
+#### [Bayesian Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Bayesian%20MMM.ipynb)
+In this notebook, I implement a Bayesian Marketing Mix Model (MMM) using PyMC to quantify the incremental impact of the sales channel in the Marketing Mix Model (MMM) dataset. The model integrates key concepts such as adstock (to capture carryover effects), saturation (to reflect diminishing returns), and lag effects. Posterior inference is performed via variational inference, and the model’s results—including channel-specific contributions (TV, Radio, and Banners) and overall paid media impact—are visualized and reported.
+
+#### [Simple Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
+In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
+framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
+a good use case for it!
+
 ## Personal Projects
 
 #### [Forecasting the Price of Bitcoin with Prophet](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Cryptocurrency/BTC%20Forecast.ipynb)
@@ -26,9 +36,3 @@ In this challenge, competitors are given a dataset made up of 48x48 grayscale im
 #### [Digit Recognizer](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Kaggle%20Competitions/Digit%20Recognition/MNIST%20Competition.ipynb)
 A computer vision challenge using the famous MNIST image dataset, the Digit Recognizer challenge prompts the competitor to build a model which recognizes handwritten numerical digits between 0 and 9.  My model achieves 99.6% accuracy and was good enough to earn me a top 7% entry at the time of submission.
 
-## Modeling Frameworks
-
-#### [Simple Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
-In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
-framework is flexible, and allows the user to load any file they'd like with instructions on how to adapt it for updated field names and parameter ranges.  Please let me know if you find
-a good use case for it!
