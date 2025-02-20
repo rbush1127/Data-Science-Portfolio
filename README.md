@@ -7,7 +7,7 @@ Enjoy!
 ## Modeling Frameworks
 
 #### [Bayesian Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Bayesian%20MMM.ipynb)
-In this notebook, I reproduce the results from my Simple Marketing Mix Modeling notebook with a Bayesian Marketing Mix Model (MMM) using PyMC.  In the notebook I quantify the incremental impact of the sales channel in the same MMM dataset. The model integrates adstock and saturation effects, and quantifies channel-specific contributions (TV, Radio, and Banners) to the overall paid media impac on Sales.
+In this notebook, I reproduce the results from my Simple Marketing Mix Modeling notebook with a Bayesian Marketing Mix Model (MMM) using PyMC.  The model integrates adstock and saturation effects, and quantifies channel-specific contributions (TV, Radio, and Banners) to the overall incremental effect of paid media impact on sales.
 
 #### [Simple Marketing Mix Modeling](https://github.com/rbush1127/Data-Science-Portfolio/blob/main/Marketing%20Mix%20Modeling/Marketing%20Mix%20Model%20Demo.ipynb)
 In the linked notebook, you'll find my implementation of a Marketing Mix Model (MMM) framework.  The framework incorporates Ad-Stock, Diminishing Return, and Lag effect transformations.  The
